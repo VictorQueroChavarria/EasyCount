@@ -20,3 +20,20 @@ Al acceder a la lista de proveedores mediante el menú podremos realizar distint
 
 Por último, el usuario puede acceder a una pantalla de agradecimientos que consta de la versión de la aplicación.
 
+![](Capturas/Captura4.png)
+
+
+The following manual is designed to be a basic guide for the use of the EsayCount mobile device application for inventory management by small and medium-sized companies.
+
+On the main page of this tool it is possible to access a drop-down menu that takes us to see the list of providers or information about the application. Likewise, on this screen it will also be possible to manage the inventory using the different buttons contained therein.
+
+![](Capturas/captura1.jpg)
+
+When accessing the list of suppliers through the menu, we can perform different actions using the buttons to update the list by clicking on the list. The latter will bring up a window with which we can make a call to the listed provider.
+
+![](Capturas/captura2.jpg)
+
+![](Capturas/captura3.png)
+
+Finally, the user can access a thank you screen that consists of the version of the application.
+![](Capturas/Captura4.png)
