@@ -10,4 +10,4 @@ El siguiente manual está diseñado para ser una guía básica para la utilizaci
 
 En la página principal de dicha herramienta es posible acceder a un menú desplegable que nos lleve a ver la lista de proveedores o información sobre la aplicación. Asimismo, en esta pantalla también será posible gestionar el inventario mediante los diferentes botones contenidos en la misma.
 
-![https://raw.githubusercontent.com/VictorQueroChavarria/EasyCount/Capturas/captura1.jpg]
+![](Capturas/captura1.jpg)
