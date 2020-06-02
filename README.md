@@ -10,4 +10,13 @@ El siguiente manual está diseñado para ser una guía básica para la utilizaci
 
 En la página principal de dicha herramienta es posible acceder a un menú desplegable que nos lleve a ver la lista de proveedores o información sobre la aplicación. Asimismo, en esta pantalla también será posible gestionar el inventario mediante los diferentes botones contenidos en la misma.
 
-![center](Capturas/captura1.jpg)
+![](Capturas/captura1.jpg)
+
+Al acceder a la lista de proveedores mediante el menú podremos realizar distintas acciones mediante los botones para actualizar la lista pulsando en la lista. Esto último hará que emerja una ventana con la cual podemos efectuar una llamada al proveedor listado.
+
+![](Capturas/captura2.jpg)
+
+![](Capturas/captura3.png)
+
+Por último, el usuario puede acceder a una pantalla de agradecimientos que consta de la versión de la aplicación.
+
